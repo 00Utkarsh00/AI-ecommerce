@@ -8,3 +8,4 @@ coverage/
 .vscode/
 *.tmp
 *.swp
+api/config/exampleconfig.env.example
